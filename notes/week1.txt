@@ -1,0 +1,16 @@
+Week 1
+
+01/09/23
+
+What is an operating system?
+
+It’s the software that supports all the computer applications and basic functions.
+All OSes have a kernel. Ex. Linux.
+
+RAM is temporary, storage is permanent.
+
+Unix is a really popular kernel.
+
+What is a wiki?
+
+Basically, a server that can be accessed anywhere quickly. It’s supported by communal collaboration.
