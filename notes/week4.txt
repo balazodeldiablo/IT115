@@ -1,1 +1,9 @@
+IT115 - Week 4
 
+We can create a web page out of our Github repo. 
+
+The domain will change from '.com' to '.io'.
+
+We can use both absolute references as well as relative references. 
+
+PHP is not compatible with GitHub pages.
