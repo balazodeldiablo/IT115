@@ -1,1 +1,14 @@
+IT115 - Week 2
+
+An operating system manages and contorls which applications have access to which hardware resources and in which order they do so. 
+
+Programming languages can be classified into low-level languages -ex: machine language, assembly code- and high-level languages -ex: Java, Python-. Both are very much essential to the development of the Operating System environment we use in our day to day.
+
+Regardless of the language used, there are many convention that are beneficial to use when we write our code.
+
+We have to thank many years of compound knowledge, trial and error for the software we enjoy today.
+
+A Wiki is a website based on the collaborative editing of its content and structure by its users.
+
+Wikis are accessible and their layouts are often kept simple and consistent.
 
