@@ -1,1 +1,7 @@
+IT115 - Week 3
 
+We can create a branch to work on changes we eventually want to commit to the main branch. After we have reviewed our code we can then create a pull request.
+
+A pull request is part of the process of committing changes to the main branch. Ideally, this step is set up to discuss changes before merging to the main branch. We can request a review from people that also are a part of the repo.
+
+Merging a pull request makes our branch a part of the main branch. 
